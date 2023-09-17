@@ -1,0 +1,10 @@
+D:\App\Addmin_setup\Addmin_setup\bin\Debug\Addmin_setup.exe.config
+D:\App\Addmin_setup\Addmin_setup\bin\Debug\Addmin_setup.exe
+D:\App\Addmin_setup\Addmin_setup\bin\Debug\Addmin_setup.pdb
+D:\App\Addmin_setup\Addmin_setup\obj\Debug\Addmin_setup.csprojAssemblyReference.cache
+D:\App\Addmin_setup\Addmin_setup\obj\Debug\Addmin_setup.Form1.resources
+D:\App\Addmin_setup\Addmin_setup\obj\Debug\Addmin_setup.Properties.Resources.resources
+D:\App\Addmin_setup\Addmin_setup\obj\Debug\Addmin_setup.csproj.GenerateResource.cache
+D:\App\Addmin_setup\Addmin_setup\obj\Debug\Addmin_setup.csproj.CoreCompileInputs.cache
+D:\App\Addmin_setup\Addmin_setup\obj\Debug\Addmin_setup.exe
+D:\App\Addmin_setup\Addmin_setup\obj\Debug\Addmin_setup.pdb
